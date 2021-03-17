@@ -1,4 +1,4 @@
-### Class module, polymorphism task
+### Generators/Iterators module, zip task
 ***
 #### Description
 
